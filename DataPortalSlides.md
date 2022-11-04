@@ -130,14 +130,14 @@ paginate: true
 
 <!-- _paginate: false -->
 <!-- _class: masthead no-footer -->
-![bg opacity:0.3](ncca_beach.jpg)
+![bg opacity:0.3](./images/ncca_beach.jpg)
 # So, you're thinking about building a geospatial __data portal__?
 ### <br><br><br><br><br>
 ### __Rob Howard__<br>Department of Geography, Planning<br>and Environment
 
 ---
 <!-- _class: no-footer -->
-![bg left:38% drop-shadow](me.jpg)
+![bg left:38% drop-shadow](./images/me.jpg)
 # Who is __Rob Howard__?
 * __Research Associate__ in the _Department of Geography, Planning and Environment_
 * __Co-Director__ of the _ECU Center for Geographic Information Science_
@@ -156,7 +156,7 @@ paginate: true
 ## ( there were developers )
 
 ---
-![bg left:38%](gis_split.png)
+![bg left:38%](./images/gis_split.png)
 # In the early days
 * The UNM MapServer, ArcIMS, and eventually ArcGIS Server were our go-to solutions for hosting web maps. 
 * Geospatial data portals were rare, but those that existed were typically static assemblages of layers.
@@ -165,13 +165,13 @@ paginate: true
 
 ---
 # Our proposed solution
-![bg right 90%](ncca_logoswarm.png)
+![bg right 90%](./images/ncca_logoswarm.png)
 For all of these reasons, web GIS was relegated to organizations with immense resources.
 
 In the summer of 2012, Dr. Tom Allen approached me about developing the North Carolina Coastal Atlas. Our goal was to make this technology accessible to anyone living, working or recreating in ENC.
 
 ---
-![bg left](ncca_needs.png)
+![bg left](./images/ncca_needs.png)
 # Needs assesment
 A needs assesment survey was distributed to potential stakeholders to determine how they might use a web-base data portal.
 
@@ -179,12 +179,12 @@ A summary of the responses is seen at left.
 
 ---
 <!-- _class: no-footer -->
-![bg 90%](ncca_homepage.jpg)
-![bg 99%](ncca_catalog.jpg)
+![bg 90%](./images/ncca_homepage.jpg)
+![bg 99%](./images/ncca_catalog.jpg)
 
 ---
 <!-- _class: no-footer -->
-![bg fit](ncca_flowchart.png)
+![bg fit](./images/ncca_flowchart.png)
 
 ---
 
@@ -197,7 +197,7 @@ A summary of the responses is seen at left.
 
 ---
 <!-- _class: no-footer -->
-![bg](ncca_beach.jpg)
+![bg](./images/ncca_beach.jpg)
 
 ---
 <!-- _class: section-purple -->
@@ -214,7 +214,7 @@ Today, almost everything proposed in the original NC Coastal Atlas information m
   Immersive, map-centric stories right in your web browser.
 
 ---
-![bg right:38%](MapPinIntheDesert_Half.png)
+![bg right:38%](./images/MapPinIntheDesert_Half.png)
 # So, that's it?
 Not if you want your data portal to be successful.
 * Data portals are now a commodity. Anybody came build one very quickly.
